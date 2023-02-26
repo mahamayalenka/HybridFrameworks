@@ -7,4 +7,9 @@ public class Newtest {
 
 	}
 
+	
+	public void  test1()
+	{
+		
+	}
 }
