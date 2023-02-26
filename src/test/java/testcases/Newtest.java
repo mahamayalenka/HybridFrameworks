@@ -12,4 +12,8 @@ public class Newtest {
 	{
 		
 	}
+	public void  test2()
+	{
+		
+	}
 }
